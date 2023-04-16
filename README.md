@@ -13,19 +13,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mars-tatsuru&margin-w=20&no-bg=true&theme=flat)](https://github.com/mars-tatsuru/github-profile-trophy)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mars-tatsuru)](https://github.com/anuraghazra/github-readme-stats)
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mars-tatsuru)](https://github.com/anuraghazra/github-readme-stats) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mars-tatsuru&show_icons=true&theme=radical)
 
 
 <!--
