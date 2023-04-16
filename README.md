@@ -10,7 +10,7 @@
   </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mars-tatsuru&margin-w=20&no-bg=true&theme=flat)](https://github.com/mars-tatsuru/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=mars-tatsuru&margin-w=20&no-bg=true&theme=flat)]
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mars-tatsuru) -->
