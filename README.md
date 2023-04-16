@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mars-tatsuru)](https://github.com/mars-tatsuru/github-profile-trophy)
+
 <!--
 **mars-tatsuru/mars-tatsuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
