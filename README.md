@@ -2,7 +2,7 @@
   <a href="https://github.com/mars-tatsuru/mars-tatsuru/">
     <img src="https://komarev.com/ghpvc/?username=mars-tatsuru" alt="mars-tatsuru" />
   </a>
-  <a href="[http://twitter.com/mars-tatsuru](https://twitter.com/tatata75kiro)">
+  <a href="https://twitter.com/tatata75kiro">
     <img height="20" src="https://img.shields.io/twitter/follow/mars-tatsuru?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/mars-tatsuru">
